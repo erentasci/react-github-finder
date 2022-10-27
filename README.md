@@ -1,5 +1,21 @@
 # Getting Started with Create React App
 
+## React Github Finder
+
+### Tech stack
+```
+- React
+- React-Router, react-router-dom-v6,
+- Context API
+- UseReducer Hook
+- React Icons
+```
+
+## Screenshot :
+![screenshot](./src/components/layout/assets/screenshot-github-finder-01.png)
+
+![screenshot](./src/components/layout/assets/screenshot-github-finder-02.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
